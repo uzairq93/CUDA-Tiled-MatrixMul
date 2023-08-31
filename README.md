@@ -4,4 +4,4 @@
 - Uzair Qadir: [uzairq93@gmail.com](mailto:uzairq93@gmail.com)
 
 ## Description
-Lab 2 implements a tiled algorithm for faster matrix multiplication in CUDA
+This project implements a tiled algorithm for faster matrix multiplication in CUDA
